@@ -1,1 +1,1 @@
-# Simple-C-Project
+# Simple-CPP-Project
